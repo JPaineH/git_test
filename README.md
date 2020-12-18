@@ -1,1 +1,1 @@
-This is Paine's first git project
+This is Josh's first git project
